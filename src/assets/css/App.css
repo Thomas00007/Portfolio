@@ -1310,6 +1310,9 @@ html.cursor-hover .cursor-ring {
   gap: 3px;
   transition: .3s ease-in-out;
 }
+.project .links a:hover {
+  color: var(--accent);
+}
 .project .links svg {
   font-size: 24px;
   font-weight: bold;

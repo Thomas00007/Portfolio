@@ -149,9 +149,9 @@
           "React"
         ],
         "liveUrl": "https://tomasznowak.tech/portfolio",
-        "githubUrl": "#",
+        "githubUrl": "https://github.com/Thomas00007/Portfolio",
         "image": "portfolio.jpg",
-        "imageAlt": "Forum ePixel - podgląd projektu"
+        "imageAlt": "Portfolio"
       },
       {
         "title": "Forum ePixel",
@@ -168,7 +168,7 @@
         "liveUrl": "#",
         "githubUrl": "https://github.com/Thomas00007/Forum",
         "image": "epixel.jpg",
-        "imageAlt": "Forum ePixel - podgląd projektu"
+        "imageAlt": "Forum ePixel"
       },
       {
         "title": "Trzcianka Biega",
